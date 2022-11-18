@@ -1,0 +1,1 @@
+{"pipeline_name": "ChIP-Seq", "pipeline_id": "chipseq", "dashboard_ids": {"fastqc": "fastqc-analysis", "alignment": "alignment-analysis", "peaks": "peak-analysis", "raw": "download-raw-files"}}

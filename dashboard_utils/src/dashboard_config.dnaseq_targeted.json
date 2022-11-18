@@ -1,0 +1,1 @@
+{"pipeline_name": "Targeted DNA-Seq", "pipeline_id": "dnaseq_targeted", "dashboard_ids": {"fastqc": "fastqc-analysis", "alignment": "targeted-alignment-analysis", "coverage": "coverage-analysis", "variant": "variant-analysis", "raw": "download-raw-files"}}
